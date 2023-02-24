@@ -3,7 +3,7 @@ array = []
 for _ in range(n):
     array.append(int(input()))
 
-start = 1
+start = 0
 end = max(array)
 
 while start <= end:
